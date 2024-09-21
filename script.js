@@ -140,3 +140,5 @@ if (markBMI2 > johnBMI2) {
 
 //const inputYear = '1990';
 //console.log(inputYear + 18, +inputYear + 18);
+
+// == & ===
